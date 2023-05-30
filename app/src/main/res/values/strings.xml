@@ -10,7 +10,4 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_catatan_main">CatatanMain</string>
-
-    <string name="a_desc">Aplikasi catatan harian ini memudahkan pengguna untuk menulis sesuatu dengan mudah dan cepat. Aplikasi ini dibuat menggunakan Android Studio untuk pemenuhan Tugas Pengganti UTS Aplikasi Komputasi Berjalan</string>
-    <string name="b_desc">Versi Aplikasi : v.1.0</string>
 </resources>
