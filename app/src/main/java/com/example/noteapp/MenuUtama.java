@@ -1,4 +1,5 @@
 package com.example.noteapp;
+//project dan package sudah saya rename, tapi project name awal ketika saya membuat "noteapp" tidak berubah menjadi "aplikasicatatanharian10120200"
 
 import androidx.appcompat.app.AppCompatActivity;
 
